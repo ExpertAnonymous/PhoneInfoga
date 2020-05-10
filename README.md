@@ -43,12 +43,23 @@ PhoneInfoga is one of the most advanced tools to scan phone numbers using only f
 
 ![Footprinting process](https://i.imgur.com/qCkgzz8.png)
 
-## License
+## Subscribe our channel on youtube:
+https://www.youtube.com/ExpertAnonymousOfficial
 
-This tool is licensed under the GNU General Public License v3.0.
+## 👥 ***Join***
 
-Some parts of this code comes from [Infoga](https://github.com/m4ll0k/infoga), another project licensed under GPLv3.0.
+### Facebook page:
+https://www.facebook.com/ExpertAnonymous
 
-[Icon](https://www.flaticon.com/free-icon/fingerprint-search-symbol-of-secret-service-investigation_48838) made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a>.
+### Telegram channel:
+https://t.me/ExpertAnonymousOfficial
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsundowndev%2FPhoneInfoga.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsundowndev%2FPhoneInfoga?ref=badge_large)
+### Instagram: 
+https://www.instagram.com/ExpertAnonymous
+
+### My GitHub ID link:
+https://www.twitter.com/ExpertAnonymoux
+
+### 📢 Warning
+
+***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
