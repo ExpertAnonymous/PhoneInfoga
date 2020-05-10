@@ -1,4 +1,3 @@
-# PhoneInfoga
 <p align="center">
   <img src="https://i.imgur.com/LtUGnF3.png" width=500 />
 </p>
