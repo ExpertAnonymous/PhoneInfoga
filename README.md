@@ -51,13 +51,13 @@ https://www.youtube.com/ExpertAnonymousOfficial
 ### Facebook page:
 https://www.facebook.com/ExpertAnonymous
 
-### Telegram channel:
+### Telegram Group:
 https://t.me/ExpertAnonymousOfficial
 
 ### Instagram: 
 https://www.instagram.com/ExpertAnonymous
 
-### My GitHub ID link:
+### Twitter:
 https://www.twitter.com/ExpertAnonymoux
 
 ### 📢 Warning
