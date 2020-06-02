@@ -3,7 +3,8 @@
 # Author : Bibek sah
 # Copyright ©2020
 # Script follows here:
-
+clear
+cd $HOME
 sleep 2.0
 echo -e "\x1b[32m
 █▀█ █░█ █▀█ █▄░█ █▀▀ █ █▄░█ █▀▀ █▀█ █▀▀ ▄▀█
